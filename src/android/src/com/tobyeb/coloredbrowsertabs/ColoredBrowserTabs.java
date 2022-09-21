@@ -35,7 +35,8 @@ package com.tobyeb.coloredbrowsertabs;
 import android.app.Application;
 import android.graphics.Color;
 import android.net.Uri;
-import android.support.customtabs.CustomTabsIntent;
+// import android.support.customtabs.CustomTabsIntent;
+import androidx.browser.customtabs.CustomTabsIntent;
 import android.text.TextUtils;
 import android.webkit.URLUtil;
 

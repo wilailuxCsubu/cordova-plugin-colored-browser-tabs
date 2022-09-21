@@ -8,5 +8,6 @@ android {
 }
 
 dependencies {
+    // Replace compile() with implementation.
     implementation 'com.android.support:customtabs:27.1.1'
 }
